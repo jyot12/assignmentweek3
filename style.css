@@ -1,0 +1,62 @@
+*{
+        margin:0px;
+        padding :0px;
+        
+}
+header h1{
+        background-color: lightgray;
+        border: 1px solid black;}
+        nav h2{
+                margin-top:50px; 
+                margin-bottom:50px; 
+        }
+        .container ul{
+                background-color: lightgray;
+                float:left;
+                height:350px;
+                width:350px;
+                background-color:lightgray;
+                margin: 0px 40px 0px 40px;
+                font-family: helvetica;
+                margin-top:20px;
+        }
+        footer h3{
+                background-color: lightgray;
+                border: 1px solid black;
+                margin-top: 450px;
+                font-size: 200%;
+                text-align: right;
+        }
+        #chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.item {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+        
+
+       
+        
+
+         
+
+
+
+
+
+
+
+
+
